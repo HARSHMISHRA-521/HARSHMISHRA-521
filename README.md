@@ -2,11 +2,19 @@
 <h1 align="center">Hi 👋, I'm Harsh Mishra</h1>
 <h3 align="centre">An Enthusiastic Upcoming SDE from India with a Drive for Innovation.</h3>
 
-<img align="centre" alt="Coding" width="800" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+<p align="right">
+  <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="Coding" width="1000">
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshmishra-521&label=Profile%20views&color=0e75b6&style=flat" alt="harshmishra-521" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=harshmishra-521&label=Profile%20views&color=0e75b6&style=flat" alt="harshmishra-521" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshmishra-521" alt="harshmishra-521" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=harshmishra-521" alt="harshmishra-521" />
+  </a>
+</p>
 
 - 🌱 I’m currently learning **React and Spring Boot**
 
