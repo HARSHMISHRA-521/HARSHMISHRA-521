@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Mishra</h1>
 <h3 align="centre">An Enthusiastic Upcoming SDE from India with a Drive for Innovation.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+<img align="centre" alt="Coding" width="600" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshmishra-521&label=Profile%20views&color=0e75b6&style=flat" alt="harshmishra-521" /> </p>
 
