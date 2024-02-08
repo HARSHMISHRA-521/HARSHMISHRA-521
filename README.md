@@ -34,7 +34,7 @@
 
 - 📄 Know about my experiences (RESUME) https://drive.google.com/file/d/1kUU4706iq6ORMz7XZROVZizAD8-1Cy9U/view?usp=drive_link
 
--🔍 Keen on discussing Python, Java, C, Web Development, and more. Check out my projects on Replit and GitHub for a deeper insight into my work. Let's connect and share our experiences and knowledge!
+- 🔍 Keen on discussing Python, Java, C, Web Development, and more. Check out my projects on Replit and GitHub for a deeper insight into my work. Let's connect and share our experiences and knowledge!
 
 - ⚡ Fun fact **I have a knack for rhyming words! Whether it's creating playful verses or crafting poetic lines, I enjoy the art of rhyming and expressing ideas in a lyrical way.**
 
