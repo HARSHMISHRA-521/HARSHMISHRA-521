@@ -18,6 +18,10 @@
 
 - 🌱 I’m currently learning **FULL STACK DEVELOPMENT** @KICKDRUM UNIVERSITY
 
+- 🌟 Currently diving deep into Full Stack Development at Kickdrum University, mastering Java, Spring Boot, React, TypeScript, Node.js, JavaScript, and AWS. My journey includes hands-on projects, which are showcased on my Kickdrum GitHub. Explore my development path and projects here [kickdrum GitHub account](https://github.com/Harsh-Mishra-Kickdrum)
+
+- 🚀 Delving into the nuances of backend and frontend development with Spring Boot and Node.js, alongside mastering cloud computing with AWS and secure coding practices. My project-based learning at Kickdrum is enhancing my portfolio with applications that tackle real-world problems.
+
 - 👨‍💻 Python Projects are available here [https://replit.com/@HARSHMISHRA34](https://replit.com/@HARSHMISHRA34)
 
 - 👨‍💻 Web Development Projects are available here [https://github.com/HARSHMISHRA-521/WEB_DEV_PROJECTS](https://github.com/HARSHMISHRA-521/WEB_DEV_PROJECTS)
@@ -29,6 +33,8 @@
 - 📫 How to reach me **hk.mishra521@gmail.com**
 
 - 📄 Know about my experiences (RESUME) https://drive.google.com/file/d/1kUU4706iq6ORMz7XZROVZizAD8-1Cy9U/view?usp=drive_link
+
+-🔍 Keen on discussing Python, Java, C, Web Development, and more. Check out my projects on Replit and GitHub for a deeper insight into my work. Let's connect and share our experiences and knowledge!
 
 - ⚡ Fun fact **I have a knack for rhyming words! Whether it's creating playful verses or crafting poetic lines, I enjoy the art of rhyming and expressing ideas in a lyrical way.**
 
