@@ -1,6 +1,6 @@
 [![MasterHead](https://cdn.weasyl.com/~fluffkevlar/submissions/30165/efb64790c6059bf9f32f9922bdfd36fad18bdd135aff5f67e99a7f0f29749042/fluffkevlar-starfield-gif.gif)](https://www.linkedin.com/in/mishraharsh-hmc/)
-<h1 align="center">Hi 👋, I'm Harsh Mishra</h1>
-<h3 align="centre">  ...  An Enthusiastic Computer Science & Engineering Student from India with a Drive for Innovation ...   </h3>
+<h1 align="center">Namaste 🙏🏻, I'm Harsh Mishra</h1>
+<h3 align="centre">  ... An Enthusiastic Software Developer Engineer Intern and Full Stack Developer from India with a Drive for Innovation ...   </h3>
 
 <p align="right">
   <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="Coding" width="800">
@@ -16,11 +16,19 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **FULL STACK DEVELOPMENT** @KICKDRUM UNIVERSITY
+- 🌱 Current Role: Software Developer Engineer (SDE) Intern at SecureU, where I am diving deep into backend and frontend development, cloud computing, and advanced software practices.
 
-- 🌟 Currently diving deep into Full Stack Development at Kickdrum University, mastering Java, Spring Boot, React, TypeScript, Node.js, JavaScript, and AWS. My journey includes hands-on projects, which are showcased on my Kickdrum GitHub. Explore my development path and projects here [kickdrum GitHub account](https://github.com/Harsh-Mishra-Kickdrum)
+- 🌟 Recent Experience: Completed an internship at Kickdrum India, where I worked on backend and frontend development, including:
+                         Developed applications using Spring Boot, Node.js, and Express.js.
+                         Mastered Java, TypeScript, and React.
+                         Gained experience in cloud computing with AWS and implemented best practices in agile methodology, CI/CD, and secure coding.
 
-- 🚀 Delving into the nuances of backend and frontend development with Spring Boot and Node.js, alongside mastering cloud computing with AWS and secure coding practices. My project-based learning at Kickdrum is enhancing my portfolio with applications that tackle real-world problems.
+- 🚀👨‍💻 Teaching Assistant at Apna College: Mentoring students in Data Structures and Algorithms, as well as frontend and backend technologies, and fostering a collaborative learning environment.
+- 🛠️ Technical Skills:
+   -  Languages: Python, Java, C, JavaScript, TypeScript, PHP
+   -  Backend Technologies: Spring Boot, Node.js, Express.js
+   -  Web & Cloud Technologies: React, Next.js, AWS, MongoDB, SQL, Tailwind CSS, SCSS, CSS, HTML
+   -  Testing & Tools: Git, Postman, JUnit, Cypress, Vitest
 
 - 👨‍💻 Python Projects are available here [https://replit.com/@HARSHMISHRA34](https://replit.com/@HARSHMISHRA34)
 
@@ -28,13 +36,13 @@
 
 - 📖 Medium Posts are available here https://medium.com/@HARSHMISHRA_HMC
 
-- 💬 Ask me about **Python , Java , C , Web Development**
+- 💬 Ask me about **Python , Java , C ,React , NextJS ,SpringBoot ,Full STack Development ,etc .. **
 
 - 📫 How to reach me **hk.mishra521@gmail.com**
 
-- 📄 Know about my experiences (RESUME) https://drive.google.com/file/d/1kUU4706iq6ORMz7XZROVZizAD8-1Cy9U/view?usp=drive_link
+- 📄 Know about my experiences (RESUME)  https://drive.google.com/file/d/1iFiVOdJbgC3tniGhTmBK_-fe1skW_Zsh/view?usp=sharing
 
-- 🔍 Keen on discussing Python, Java, C, Web Development, and more. Check out my projects on Replit and GitHub for a deeper insight into my work. Let's connect and share our experiences and knowledge!
+- 🔍 Keen on discussing Python, Java, C, AWS, Spring Boot , React,Full Stack Development and more. Check out my projects on Replit and GitHub for a deeper insight into my work. Let's connect and share our experiences and knowledge!
 
 - ⚡ Fun fact **I have a knack for rhyming words! Whether it's creating playful verses or crafting poetic lines, I enjoy the art of rhyming and expressing ideas in a lyrical way.**
 
