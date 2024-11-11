@@ -1,6 +1,6 @@
 [![MasterHead](https://cdn.weasyl.com/~fluffkevlar/submissions/30165/efb64790c6059bf9f32f9922bdfd36fad18bdd135aff5f67e99a7f0f29749042/fluffkevlar-starfield-gif.gif)](https://www.linkedin.com/in/mishraharsh-hmc/)
 <h1 align="center">Namaste 🙏🏻, I'm Harsh Mishra</h1>
-<h3 align="centre">  ... An Enthusiastic Software Developer Engineer Intern and Full Stack Developer from India with a Drive for Innovation ...   </h3>
+<h3 align="centre">  ... An Enthusiastic Software Developer Engineer and Full Stack Developer from India with a Drive for Innovation ...   </h3>
 
 <p align="right">
   <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="Coding" width="800">
@@ -23,7 +23,13 @@
                          Developed applications using Spring Boot, Node.js, and Express.js.
                          Mastered Java, TypeScript, and React.
                          Gained experience in cloud computing with AWS and implemented best practices in agile methodology, CI/CD, and secure coding.
-
+  
+- 🖥 Freelancer - Frontend Developer, Remote :
+   -  Product Development : Designed and developed two fully responsive and functional websites for a startup, focusing solely
+                            on frontend development using React, HTML5, CSS3, and JavaScript, ensuring optimal user experience and performance.
+   -  Technical Leadership : Managed the entire frontend development lifecycle, from wireframing and UI design to
+                             implementation and deployment, resulting in a 30% increase in user engagement for the startup.
+                                              
 - 🚀👨‍💻 Teaching Assistant at Apna College: Mentoring students in Data Structures and Algorithms, as well as frontend and backend technologies, and fostering a collaborative learning environment.
 - 🛠️ Technical Skills:
    -  Languages: Python, Java, C, JavaScript, TypeScript, PHP
