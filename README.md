@@ -4,6 +4,7 @@
 
 <p align="right">
   <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="Coding" width="800">
+
 </p>
 
 <p align="left">
@@ -16,7 +17,7 @@
   </a>
 </p>
 
-- 🌱 Current Role: Software Developer Engineer (SDE) Intern at SecureU, where I am diving deep into backend and frontend development, cloud computing, and advanced software practices.
+- 🌱 Current Role: Software Developer Engineer (SDE)  at Secureu, where I am diving deep into backend and frontend development, cloud computing, and advanced software practices.
 
 - 🌟 Recent Experience: Completed an internship at Kickdrum India, where I worked on backend and frontend development, including:
                          Developed applications using Spring Boot, Node.js, and Express.js.
@@ -36,11 +37,11 @@
 
 - 📖 Medium Posts are available here https://medium.com/@HARSHMISHRA_HMC
 
-- 💬 Ask me about **Python , Java , C ,React , NextJS ,SpringBoot ,Full STack Development ,etc .. **
+- 💬 Ask me about **Python , Java , C ,React , NextJS ,SpringBoot ,Node JS ,AWS ,Full STack Development ,etc .. **
 
 - 📫 How to reach me **hk.mishra521@gmail.com**
 
-- 📄 Know about my experiences (RESUME)  https://drive.google.com/file/d/1iFiVOdJbgC3tniGhTmBK_-fe1skW_Zsh/view?usp=sharing
+- 📄 Know about my experiences (RESUME)  [https://drive.google.com/file/d/1iFiVOdJbgC3tniGhTmBK_-fe1skW_Zsh/view?usp=sharing](https://drive.google.com/drive/folders/1pGK1alOqsBhG7oRoVjr_QeOQf72o4TzL?usp=sharing)
 
 - 🔍 Keen on discussing Python, Java, C, AWS, Spring Boot , React,Full Stack Development and more. Check out my projects on Replit and GitHub for a deeper insight into my work. Let's connect and share our experiences and knowledge!
 
