@@ -19,7 +19,7 @@
 
 - 🌱 Current Role: Founding Engineer & SDE I at **CorsLab**,  building Sentrinus, a multi-tenant security SaaS platform.
   
-- 🔧 **Core Expertise**: Full-stack development (Node.js, React, TypeScript), cloud architecture (AWS), CI/CD (GitHub Actions, Docker), and scalable microservices.  
+- 🔧 **Core Expertise**: Full-stack development (Node.js, React, TypeScript), cloud architecture (AWS), CI/CD , and scalable microservices.  
 - 🎓 **Mentorship**: Mentored **5,000+ learners** as TA at Apna College—resolving DSA & full-stack doubts via Discord & Google Meet with 4.94/5 average rating.  
 
 - 💼 **Past Roles**:  
