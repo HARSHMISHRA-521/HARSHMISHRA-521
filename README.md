@@ -227,7 +227,10 @@ Jun 2024        ┃  Internship · On-site · 7 mos
 
 ## ⚡ Fun Fact
 
-> I get a real kick out of turning "it works on my machine" into "it works in production" — debugging, tests, and a clean deploy pipeline make it worth the late nights.
+> Tech stacks come and go — they don’t define you.
+What truly matters is your ability to adapt, learn fast, and think clearly.
+At the end of the day, you're not a framework expert — you're a Software Engineer, a problem solver first.
+
 
 ---
 
